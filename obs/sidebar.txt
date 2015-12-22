@@ -1,0 +1,9 @@
+
+----
+~~NOCACHE~~
+**[[mkn:obs|Open Bible Stories]]**
+
+{{page>mkn:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = mkn:obs}}
