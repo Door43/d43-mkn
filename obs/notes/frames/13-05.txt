@@ -11,7 +11,7 @@
   * **[[:mkn:obe:kt:god]]**
   * **[[:mkn:obe:kt:sabbath]]**
   * **[[:mkn:obe:kt:holy]]**
-  * **[[:mkn:obe:kt:sabbath]]**
+
 ==== Translation Notes: ====
 
   * (God continues speaking to Moses.)
