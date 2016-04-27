@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords - Kupang ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in OBE Directory: ====
 
-  * [[:mkn:obe:kt:home|Key Terms]]
-  * [[:mkn:obe:other:home|Other Terms]]
+  * [[:mkn:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:mkn:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
